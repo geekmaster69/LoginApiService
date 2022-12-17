@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Login Api Rest</string>
+    <string name="main_error_server">Error en la peticion</string>
 </resources>
